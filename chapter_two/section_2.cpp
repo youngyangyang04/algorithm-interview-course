@@ -1,5 +1,5 @@
 /* ************************************************************************
-> File Name:     algorithm_2.cpp
+> File Name:     section_2.cp
 > Author:        SunXiuyang
 > 微信公众号:    代码随想录
 > Created Time:  Thu Jan 30 16:09:35 2020
