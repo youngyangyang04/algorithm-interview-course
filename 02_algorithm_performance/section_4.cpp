@@ -1,9 +1,7 @@
 /* ************************************************************************
 > File Name:     section_4.cpp
 > Author:        SunXiuyang
-> 微信公众号:    代码随想录
-> Created Time:  Tue Feb 18 23:34:08 2020
-> Description:   
+> leetcode 题解: https://github.com/youngyangyang04/leetcode-master 
  ************************************************************************/
 
 #include<iostream> 

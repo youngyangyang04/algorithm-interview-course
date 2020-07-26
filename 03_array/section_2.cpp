@@ -1,7 +1,7 @@
 /* ************************************************************************
 > File Name:     section_2.cpp
 > Author:        SunXiuyang
-> 微信公众号:    代码随想录
+> leetcode 题解: https://github.com/youngyangyang04/leetcode-master 
  ************************************************************************/
 
 class Solution {
