@@ -1,7 +1,7 @@
 /* ************************************************************************
 > File Name:     section_3.cpp
 > Author:        SunXiuyang
-> leetcode 题解: https://github.com/youngyangyang04/leetcode-master 
+> Leetcode刷题攻略: https://github.com/youngyangyang04/leetcode-master 
  ************************************************************************/
 
 

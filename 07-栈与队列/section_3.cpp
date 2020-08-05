@@ -1,7 +1,7 @@
 /* ************************************************************************
 > File Name:     面试题：有效的括号&删除字符串中的所有相邻重复项（应用栈的经典题目）
 > Author:        SunXiuyang
-> leetcode 题解: https://github.com/youngyangyang04/leetcode-master 
+> Leetcode刷题攻略: https://github.com/youngyangyang04/leetcode-master 
  ************************************************************************/
 
 // 20. 有效的括号 

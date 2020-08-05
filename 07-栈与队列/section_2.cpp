@@ -1,7 +1,7 @@
 /* ************************************************************************
 > File Name:     面试题：用队列实现栈&用栈实现队列 （综合考察对栈和队列的理解）
 > Author:        SunXiuyang
-> leetcode 题解: https://github.com/youngyangyang04/leetcode-master 
+> Leetcode刷题攻略: https://github.com/youngyangyang04/leetcode-master 
  ************************************************************************/
 
 // 232.用栈实现队列 

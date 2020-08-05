@@ -1,7 +1,7 @@
 /* ************************************************************************
 > File Name:     第三节面试题：翻转字符串里的单词 
 > Author:        SunXiuyang
-> leetcode 题解: https://github.com/youngyangyang04/leetcode-master 
+> Leetcode刷题攻略: https://github.com/youngyangyang04/leetcode-master 
  ************************************************************************/
 
 // 0151.翻转字符串里的单词 

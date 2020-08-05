@@ -1,7 +1,7 @@
 /* ************************************************************************
 > File Name:     面试题：滑动窗口最大值（单调队列的经典应用）
 > Author:        SunXiuyang
-> leetcode 题解: https://github.com/youngyangyang04/leetcode-master 
+> Leetcode刷题攻略: https://github.com/youngyangyang04/leetcode-master 
  ************************************************************************/
 
 // https://github.com/youngyangyang04/leetcode/blob/master/problems/0239.滑动窗口最大值.md

@@ -1,7 +1,7 @@
 /* ************************************************************************
 > File Name:     第五节：经典KMP算法精讲（2）&面试题实现 strStr()
 > Author:        SunXiuyang
-> leetcode 题解: https://github.com/youngyangyang04/leetcode-master 
+> Leetcode刷题攻略: https://github.com/youngyangyang04/leetcode-master 
  ************************************************************************/
 
 // 0028.实现strStr() 

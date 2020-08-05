@@ -1,7 +1,7 @@
 /* ************************************************************************
 > File Name:     第一节面试题：反转字符串 （考察字符串基础操作）
 > Author:        SunXiuyang
-> leetcode 题解: https://github.com/youngyangyang04/leetcode-master 
+> Leetcode刷题攻略: https://github.com/youngyangyang04/leetcode-master 
  ************************************************************************/
 
 // 344.反转字符串

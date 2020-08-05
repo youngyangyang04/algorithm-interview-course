@@ -1,7 +1,7 @@
 /* ************************************************************************
 > File Name:     第二节面试题：替换空格（字符串基础操作，从后替换和从前替换效率大不相同） 
 > Author:        SunXiuyang
-> leetcode 题解: https://github.com/youngyangyang04/leetcode-master 
+> Leetcode刷题攻略: https://github.com/youngyangyang04/leetcode-master 
  ************************************************************************/
 
 
