@@ -1,5 +1,5 @@
 /* ************************************************************************
-> File Name:     section_7.cpp
+> File Name:     使用空间换时间思想来解决leetcode上的一道面试题
 > Author:        SunXiuyang
 > Leetcode刷题攻略: https://github.com/youngyangyang04/leetcode-master 
  ************************************************************************/ 

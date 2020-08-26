@@ -1,5 +1,5 @@
 /* ************************************************************************
-> File Name:     section_6.cpp
+> File Name:     使用leetcode的正确姿势
 > Author:        SunXiuyang
 > Leetcode刷题攻略: https://github.com/youngyangyang04/leetcode-master 
  ************************************************************************/

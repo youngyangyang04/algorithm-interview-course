@@ -1,5 +1,5 @@
 /* ************************************************************************
-> File Name:     section_4.cpp
+> File Name:     移除元素（数组问题常见优化思路：快慢指针）
 > Author:        SunXiuyang
 > Leetcode刷题攻略: https://github.com/youngyangyang04/leetcode-master 
  ************************************************************************/

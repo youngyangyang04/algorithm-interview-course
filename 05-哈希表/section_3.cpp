@@ -1,5 +1,5 @@
 /* ************************************************************************
-> File Name:     section_3.cpp
+> File Name:     第三节面试题：两个数组的交集（set在哈希法中的应用）
 > Author:        SunXiuyang
 > Leetcode刷题攻略: https://github.com/youngyangyang04/leetcode-master 
  ************************************************************************/

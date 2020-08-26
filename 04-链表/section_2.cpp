@@ -1,5 +1,5 @@
 /* ************************************************************************
-> File Name:     section_2.cpp
+> File Name:     面试题：移除链表中的某一个元素（操作链表的两种方法）
 > Author:        SunXiuyang
 > Leetcode刷题攻略: https://github.com/youngyangyang04/leetcode-master 
  ************************************************************************/
